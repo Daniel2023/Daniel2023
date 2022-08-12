@@ -1,8 +1,6 @@
 ### Olá, sou o Daniel 👋
 
 
-Here are some ideas to get you started:
-
 - 🌱 Ciências da Comutação
 
 <div align="center">
