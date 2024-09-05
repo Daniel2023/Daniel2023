@@ -1,7 +1,7 @@
 ### Olá, sou o Daniel 👋
 
 
-- 🌱 Ciências da Computação
+- 🌱 Ciência da Computação
 
 <div align="center">
   <a href="https://github.com/Daniel2023">
